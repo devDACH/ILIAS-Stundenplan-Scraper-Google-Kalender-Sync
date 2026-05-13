@@ -98,6 +98,22 @@ Danach wird automatisch gespeichert:
 
 output/google_token.json
 
+-----------------------------------------------------------------------------------
+
+## Ilias Login / Pfadeingabe 
+
+Bei Ilias Stundenplan Ordner Link den Link angeben, aus dem die Stundenpläne gescrapt werden sollen
+
+Benutzername und Passwort müssen außerdem hinterlegt werden
+
+## Scraper Buttons 
+
+der Scraper hat 2 Buttons: 
+Button 1: Scrape and Convert Stundenpläne --> Hier erfolgt der Download und die Konvertierung aller im Ilias Ordner gefundenen Stundenpläne 
+Button 2: Hier erfolgt der Sync zum Google Kalender.
+
+Alternativ kann die ICS Datei die in Schritt 1 erstellt wird auch manuell eingepflegt werden
+
 
 Wenn diese Vorbereitung abgeschlossen ist kann über den Scraper mit den gesetzen ILIAS und Google Kalender Daten der Stundenplan direkt in den Google Kalender gesynct werden
 
