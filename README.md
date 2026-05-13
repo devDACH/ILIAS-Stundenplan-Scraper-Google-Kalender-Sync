@@ -1,4 +1,4 @@
-# ILIAS-Stundenplan-Scraper-Google-Kalender-Sync-
+# ILIAS-Stundenplan-Scraper-Google-Kalender-Sync
 ILIAS Stundenplan Scraper (Google Kalender Sync) 
 
 # Anleitung: Google Kalender Sync für den Stundenplan Scraper
