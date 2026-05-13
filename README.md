@@ -114,6 +114,14 @@ Button 2: Hier erfolgt der Sync zum Google Kalender.
 
 Alternativ kann die ICS Datei die in Schritt 1 erstellt wird auch manuell eingepflegt werden
 
+------------------------------------------------------------------------------------
+## Potential Problems 
+
+Playwright Browser fehlt
+Lösung:
+Projektordner in CMD ansteuern, dann: 
+
+python -m playwright install chromium
 
 Wenn diese Vorbereitung abgeschlossen ist kann über den Scraper mit den gesetzen ILIAS und Google Kalender Daten der Stundenplan direkt in den Google Kalender gesynct werden
 
