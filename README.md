@@ -93,7 +93,7 @@ Beim ersten Synchronisieren:
 * Browser öffnet sich automatisch
 * Mit Google anmelden
 * Zugriff erlauben
-* 
+  
 Danach wird automatisch gespeichert:
 
 output/google_token.json
